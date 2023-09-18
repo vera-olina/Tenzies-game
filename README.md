@@ -51,4 +51,4 @@ If you encounter any issues or would like to submit an improvement to this proje
 The "Best Time" feature is currently under development and not functioning as intended. Stay tuned for updates!
 
 ## Other Information
-The game is also available online! You can [play it here]. Have fun!
+The game is also available online! You can [play it here](https://celadon-scone-b48176.netlify.app). Have fun!
