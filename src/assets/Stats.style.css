@@ -1,0 +1,25 @@
+/* Stats Style */
+.stats {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 8px;
+}
+
+.stats--player-name {
+    font-family: 'Roboto', sans-serif;
+    display:block;
+    color: #252422;
+    background-color: transparent;
+    width:100%;
+    padding:8px;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+}
+
+.stats--player-name::placeholder{
+    opacity: 0.75;
+    font-weight: 300;
+}
