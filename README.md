@@ -24,6 +24,7 @@ The project's uniqueness extends to its user interface, which features custom CS
 
 ## Technologies
 This project was scaffoldede with [Vite plugin](https://vitejs.dev) for React.
+Deployed on [Netlify](https://www.netlify.com).
 
 ## Installation
 
