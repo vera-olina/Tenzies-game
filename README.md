@@ -14,7 +14,7 @@ Welcome to the Tenzies game! This project was created as a part of the React cou
 
 ## UI Screenshot 
 
-<img width="1074" alt="Screenshot 2022-04-06 at 11 31 54" src="./public/screenshot.jpeg" >
+<img width="1074" alt="Screenshot 2023-09-16 at 12 12 58 PM" src="./public/screenshot.jpeg" >
 
 ## Introduction
 
